@@ -1,0 +1,149 @@
+#Bandeau a { /* Agit sur les liens*/
+ text-decoration:none; /* Les désouligne*/
+ font-size: 1.5em; /*Définit leur taille*/
+} 
+#Bandeau 
+    {
+        margin-left:auto;
+        margin-right:auto;
+	white-space:nowrap;
+	background-image: url(Fond_Bandeau.jpg);/*Définis une image de fond pour le bandeau*/
+	background-size: cover;/*Adapte l'image a la taille du bandeau*/
+	height:220px;
+	width:1200px;
+}
+.RS{/*Agit sur les réseaux sociaux*/
+	float: right;
+	width: 30px;
+	margin-top: 10px;
+	margin-right: 20px;
+	
+	
+}
+.Drapeau{/*Agit sur les drapeaux*/
+	float: left;
+	width: 30px;
+	margin-top: 10px;
+	margin-left: 20px;
+	
+	
+}
+.centrer { /*sert a centrer le logo*/
+    margin-left: 450px;
+	width: 100px;
+		}
+span#TitreG a{/*Change la couleur des liens gauche et leurs écart */
+	color:#d08a28;
+	padding-left:30px;
+}	
+span#TitreD a{/*Change la couleur des liens droit et leurs écart */
+	color:#5e140b;
+	padding-right: 30px;
+	float: right;
+}	
+#searchbar{
+	padding-top: 30px;
+	padding-bottom: 30px;
+	margin-left: 400px;
+	width:400px;
+}
+.formulaire .champ {
+	width:80%;
+	font-size:100%;
+        padding: 0;
+	}
+.formulaire .bouton{
+ width: 15%;
+ font-size:100%;
+ padding: 0;
+ }
+
+div#presentation
+{   text-align:center;
+    white-space:nowrap;
+    height: 50px;
+    width: 100Opx;
+    margin-top: 10px;
+    
+    }
+
+#apprenez, #partagez, #recevez, #aimer {
+     
+     white-space:normal;
+     display:inline-block;
+     text-align: center;
+     font-size: 13px;
+     height: 200px;
+     width: 200px;
+     vertical-align: top;
+     padding: 30px;
+     
+     }
+
+
+#toque, #pieces{
+    width: 50px;
+    height: 50px;}
+
+#ustensile{
+    width: 60px;
+    height: 50px;}
+
+#catégories{
+    text-align: center;
+    width: 1200px;    
+    margin-top: 200px;
+    margin-left:auto;
+    margin-right:auto;
+    }
+
+#idee1, #idee2, #idee3,#idee4, #idee5, #idee6{
+    display: inline-block;
+    text-align: center;
+    width: 250px;    
+    margin: 40px;
+    }
+
+
+
+.image
+{
+    width: 100%;
+    height: 180px;
+    border-radius: 10px;
+}
+#explication{
+    width: 1200px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+}
+#didactique{
+    height: 309px;
+    width:637px;
+    
+    
+    
+}
+#footer {
+	width: 1200px;
+        margin-right:auto;
+        margin-left:auto;
+        float:bot;/*Permet au bandeau de descendre avec la page*/
+	background-color: #5e140b;/* Couleur de fond du bandeau*/
+	height:130px;/*Hauteur du bandeau*/
+	text-align:center;
+        font-weight: normal;
+	font-family:cambria;
+	font-size:14px;
+	padding:10px;
+	color: #FFFFFF
+}
+
+#footer a{
+	float:left;
+        padding-left:40px;
+        padding-right:40px;
+	color: grey;
+	font-size:20px;
+}
