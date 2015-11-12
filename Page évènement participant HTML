@@ -1,0 +1,91 @@
+# ShareEat
+Projet
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <link rel="stylesheet" href="event.css" />
+       
+<div id="Bandeau">
+<img src="logo.jpg" class=Logo>
+<a href="page2.htm">Profil</a>
+ <a href="page2.htm">Catégories</a>
+ <a href="page2.htm">SharePlace</a>
+ <span id="searchbar">
+	<span action="" class="formulaire">
+	<input class="champ" type="text" value="Rechercher..."/>
+	<input class="bouton" type="button" value="Go!" />
+	</span>
+</span>
+<a href="page2.htm">Forum</a>
+<a href="page2.htm">Créer</a>
+<a href="page2.htm">Aide</a>
+</div>
+    </head>
+   
+    <body>
+        
+      <div id="tout">  
+        <div id="barre_de_gauche"> 
+            
+            <div class="mes"><a class="gauche">Mes Shareeaters</a></div>
+            <div class="sous-mes"><a class="gauche">Shareeaters1</a></div>
+            <div class="sous-mes"><a class="gauche">Shareeaters2</a></div>
+            <div class="sous-mes"><a class="gauche">Shareeaters3</a></div>
+            <div class="sous-mes"><a class="gauche">Shareeaters4</a></div>
+            <div class="sous-mes"><a class="gauche">Shareeaters5</a></div>
+            <div class="sous-mes"><a class="gauche">Shareeaters6</a></div>
+            
+            <div id="espace"></div>
+            
+            <div class="mes"><a>Mes Shareplaces</a></div>
+            <div class="sous-mes"><a class="gauche">Shareplace1</a></div>
+            <div class="sous-mes"><a class="gauche">Shareplace2</a></div>
+            <div class="sous-mes"><a class="gauche">Shareplace3</a></div>
+            <div class="sous-mes"><a class="gauche">Shareplace4</a></div>
+            <div class="sous-mes"><a class="gauche">Shareplace5</a></div>
+            <div class="sous-mes"><a class="gauche">Shareplace6</a></div>
+            <div class="sous-mes"><a class="gauche">Shareplace7</a></div>           
+           
+        </div>
+
+ <img class="photo" src="bandeau.jpg" alt="photo" width="450" height="100">
+        <h2 class="titre1">Atelier verrines</h2>
+	<h3 class="cadre1">J'y vais</h3>
+	<h3 class="cadre2">Je ne participe pas</h3>
+	
+	<p class="c1">17/08/2015  A partir de 18h <br>28 rue Notre Dame<br>Paris<br>20 places<br></p>
+	<p class="c2">Ciboulette <br> Chef<br>...<br></p>
+	<h2 class="description">Description</h2>
+	<p class="c3">Dans cette atelier vous apprendrez à réaliser de magnifiques verrines<br> sucrées ou salées!<br>
+	Je suis étudiant en école de cuisine et j'aimerai partager mon <br>apprentissage avec des SharEaters de tout âge et de tout goût!<br>
+	Venez me rejoindre sans hésiter à cet atelier qui promet d'être riche <br>en saveurs!</p>
+	<h2 class=" publication">Publications</h2>
+	<p class="c4">Ciboulette<br>Salut! Je suis intéressé par ton atelier mais j'aimerai savoir si il faut <br>ramener nos ingrédients ou te payer.<br>Voilà j'espére a bientôt :)<br>MasterChef<br>Salut Ciboulette!<br>Pour répondre à ta question oui ramène tes ingrédients je fournirai le<br> matériel et les épices.<br>Si tu pouvais ramener du saumon ce serait parfait!<br>A bientôt:)</p>
+	
+	<img class=" c5"src="blanc.png" alt="blanc"width="300" height="100">
+	    
+	    <div id="footer">
+Dernière modification de cette page le 13 juin 2015 à 13:42.<br>
+Droit d'auteur : les textes sont disponibles sous licence Creative Commons paternité partage à l’identique ; d’autres conditions peuvent s’appliquer.<br>
+ Voyez les conditions d’utilisation pour plus de détails, ainsi que les crédits graphiques.<br>
+SharEat est une marque déposée de la SharEat Foundation, Inc., organisation de bienfaisance régie par le paragraphe 501(c)(3) du code fiscal de France.<br><br><br>
+<a>Politique de confidentialité </a><a>À propos de SharEat</a><a> Avertissements</a><a>Développeurs</a><a>Version mobile</a>
+</div>
+	    </div>
+	    </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
