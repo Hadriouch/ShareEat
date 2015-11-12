@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Mon profil</title>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="mon profil css.css">
+        <meta name="keywords" content="camenbert, baguette">
+        <meta name="description" content="sauce ta vie">
+        <link rel="icon" href="logorogner.jpg">
+        
+              
+    </head>
+    <body>
+      <div id="centrage">
+       
+        <div id="bandeau"> <p>place vide pour le bandeau</p></div>
+        
+        
+        
+        <div id="barre_de_gauche"> 
+            
+            <div class="photo_profil"><img src="hadriouch.png" alt="photo de profil" class="photo_profil"></div>
+            <span class="profil">Hadriouch <br> Hadrien <br> Piegard <br> </span>
+            <a class="modifier_profil" href="modifier profil.html"> <div class="modifier_profil">modifier</div></a>
+            
+            <div class="mes"><a class="gauche">Mes Shareeaters</a></div>
+            <div class="sous-mes"><a class="gauche">Shareeaters1</a></div>
+            <div class="sous-mes"><a class="gauche">Shareeaters2</a></div>
+            <div class="sous-mes"><a class="gauche">Shareeaters3</a></div>
+            <div class="sous-mes"><a class="gauche">Shareeaters4</a></div>
+            <div class="sous-mes"><a class="gauche">Shareeaters5</a></div>
+            <div class="sous-mes"><a class="gauche">Shareeaters6</a></div>
+            
+            <div id="espace"></div>
+            
+            <div class="mes"><a class="gauche">Mes Shareplaces</a></div>
+            <div class="sous-mes"><a class="gauche">Shareplace1</a></div>
+            <div class="sous-mes"><a class="gauche">Shareplace2</a></div>
+            <div class="sous-mes"><a class="gauche">Shareplace3</a></div>
+            <div class="sous-mes"><a class="gauche">Shareplace4</a></div>
+            <div class="sous-mes"><a class="gauche">Shareplace5</a></div>
+            <div class="sous-mes"><a class="gauche">Shareplace6</a></div>
+            <div class="sous-mes"><a class="gauche">Shareplace7</a></div>           
+           
+        </div>
+        
+       <!-- fin barre de gauche --> 
+       
+     
+       <div class="mon_profil"><p>Profil</p></div>
+       <div class="mes_évenements"><p>Mes évenements</p></div>
+       
+       
+        <div id="droite"></div> <!-- pour réguler le margin de gauche-->
+        
+        <div class="droite" id="organise"><div class="J">J'organise</div>
+           
+            <a href="évenement victor.html" class="lien"> <div class="un_évenement">
+                <div class="image_évenement"><img class="sdchocolat" alt="pas d'image" src="salon-du-chocolat.jpg"></div>
+                <div class="texte_un_évenement_droite">
+                    Le Salon du chocolat
+                    <br>
+                    <br>
+                    128/230 participants
+                </div>
+                <div class="description">
+                     Du 28 octobre au 1er novembre dernier, le Salon Mondial du Chocolat a accueilli 100 000 gourmands pour une 21ème édition particulièrement savoureuse, au coeur du Hall 5 de la Porte de Versailles.
+
+Près de 700 participants venus de 40 pays étaient présents sur 20 000 m2 : 220 exposants chocolatiers, pâtissiers, confiseurs, pays producteurs, aux côtés des plus grands chefs, chefs pâtissiers, designers et experts qui se se sont relayés pour offrir des recettes, conférences et autres animations autour du chocolat.
+                </div>
+                <div class=" tout_submit">
+                    <div class="submit">
+                        inviter
+                    </div> 
+                    <div class="submit">
+                        modifier
+                    </div> 
+                 </div>
+            </div></a>
+            <div class="entre_deux_évenements"></div>
+<!--début du ctrl v-->
+            <a href="évenement victor.html" class="lien"><div class="un_évenement">
+            <div class="image_évenement"><img class="sdchocolat" alt="pas d'image" src="salon-du-chocolat.jpg"></div>
+                <div class="texte_un_évenement_droite">
+                    Le Salon du chocolat
+                    <br>
+                    <br>
+                    128/230 participants
+                </div>
+                <div class="description">
+                     Du 28 octobre au 1er novembre dernier, le Salon Mondial du Chocolat a accueilli 100 000 gourmands pour une 21ème édition particulièrement savoureuse, au coeur du Hall 5 de la Porte de Versailles.
+
+Près de 700 participants venus de 40 pays étaient présents sur 20 000 m2 : 220 exposants chocolatiers, pâtissiers, confiseurs, pays producteurs, aux côtés des plus grands chefs, chefs pâtissiers, designers et experts qui se se sont relayés pour offrir des recettes, conférences et autres animations autour du chocolat.
+                </div>
+                <div class=" tout_submit">
+                    <div class="submit">
+                        inviter
+                    </div> 
+                    <div class="submit">
+                        modifier
+                    </div> 
+                 </div>
+            </div></a>
+            <div class="entre_deux_évenements"></div>                       
+        </div>
+<!--fin du ctrl v-->
+        <div class="droite"> <div class="J">Je participe</div>
+            
+            <a href="évenement victor.html" class="lien"><div class="un_évenement">
+            <div class="image_évenement"><img class="sdchocolat" alt="pas d'image" src="salon-du-chocolat.jpg"></div>
+                <div class="texte_un_évenement_droite">
+                    Le Salon du chocolat
+                    <br>
+                    <br>
+                    128/230 participants
+                </div>
+                <div class="description">
+                     Du 28 octobre au 1er novembre dernier, le Salon Mondial du Chocolat a accueilli 100 000 gourmands pour une 21ème édition particulièrement savoureuse, au coeur du Hall 5 de la Porte de Versailles.
+
+Près de 700 participants venus de 40 pays étaient présents sur 20 000 m2 : 220 exposants chocolatiers, pâtissiers, confiseurs, pays producteurs, aux côtés des plus grands chefs, chefs pâtissiers, designers et experts qui se se sont relayés pour offrir des recettes, conférences et autres animations autour du chocolat.
+                </div>
+                <div class=" tout_submit">
+                    <div class="submit">
+                        inviter
+                    </div> 
+                    <div class="submit">
+                        quitter
+                    </div> 
+                 </div>
+            </div></a>
+            <div class="entre_deux_évenements"></div>
+            
+            <a href="évenement victor.html" class="lien"><div class="un_évenement">
+            <div class="image_évenement"><img class="sdchocolat" alt="pas d'image" src="salon-du-chocolat.jpg"></div>
+                <div class="texte_un_évenement_droite">
+                    Le Salon du chocolat
+                    <br>
+                    <br>
+                    128/230 participants
+                </div>
+                <div class="description">
+                     Du 28 octobre au 1er novembre dernier, le Salon Mondial du Chocolat a accueilli 100 000 gourmands pour une 21ème édition particulièrement savoureuse, au coeur du Hall 5 de la Porte de Versailles.
+
+Près de 700 participants venus de 40 pays étaient présents sur 20 000 m2 : 220 exposants chocolatiers, pâtissiers, confiseurs, pays producteurs, aux côtés des plus grands chefs, chefs pâtissiers, designers et experts qui se se sont relayés pour offrir des recettes, conférences et autres animations autour du chocolat.
+                </div>
+                <div class=" tout_submit">
+                    <div class="submit">
+                        inviter
+                    </div> 
+                    <div class="submit">
+                        quitter
+                    </div> 
+                 </div>
+                </div></a>
+            <div class="entre_deux_évenements"></div>
+        </div>
+       
+      </div>
+    </body>
+</html>
