@@ -1,0 +1,99 @@
+# ShareEat
+Projet
+<html lang="fr-FR"><! Indication sur la langue>
+<meta charset="UTF-8"><!Définit l'encodage>
+<head>
+<link rel="stylesheet" href="Accueil_Forumm.css"><!Relie a la page css associée>
+<link rel="icon" type="image/png" href="logo.ico" /><!Met une icone dans l'onglet>
+
+<title> Share Eat </title><!Met un titre dans l'onglet>
+</head>
+<body>
+<div id="Bandeau">
+<div id="Contenu">
+<img src="logo.jpg" class=Logo>
+<a href="page2.htm">Profil</a>
+ <a href="page2.htm">Catégories</a>
+ <a href="page2.htm">SharePlace</a>
+ <span id="searchbar">
+	<span action="" class="formulaire">
+	<input class="champ" type="text" value="Rechercher..."/>
+	<input class="bouton" type="button" value="Go!" />
+	</span>
+</span>
+<a href="page2.htm">Forum</a>
+<a href="page2.htm">Créer</a>
+<a href="page2.htm">Aide</a>
+</div>
+</div>
+<div id="colone1">
+<div id="barre_de_gauche"> 
+            
+            <div class="mes"><a class="gauche">Mes Shareeaters</a></div>
+            <div class="sous-mes"><a class="gauche">Shareeaters1</a></div>
+            <div class="sous-mes"><a class="gauche">Shareeaters2</a></div>
+            <div class="sous-mes"><a class="gauche">Shareeaters3</a></div>
+            <div class="sous-mes"><a class="gauche">Shareeaters4</a></div>
+            <div class="sous-mes"><a class="gauche">Shareeaters5</a></div>
+            <div class="sous-mes"><a class="gauche">Shareeaters6</a></div>
+            
+            <div id="espace"></div>
+            
+            <div class="mes"><a>Mes Shareplaces</a></div>
+            <div class="sous-mes"><a class="gauche">Shareplace1</a></div>
+            <div class="sous-mes"><a class="gauche">Shareplace2</a></div>
+            <div class="sous-mes"><a class="gauche">Shareplace3</a></div>
+            <div class="sous-mes"><a class="gauche">Shareplace4</a></div>
+            <div class="sous-mes"><a class="gauche">Shareplace5</a></div>
+            <div class="sous-mes"><a class="gauche">Shareplace6</a></div>
+            <div class="sous-mes"><a class="gauche">Shareplace7</a></div>           
+           
+        </div>
+</div>
+<div class=colone2>
+  <div class="mon_profil"><p>Forum</p></div>
+  <div class=barre><input type="button" name="lien 1" value="Créer une nouvelle discussion" onclick="self.location.href='Se connecter.html'"
+	style="background-color:rgb(208,138,40)1" style="color:white; font-weight:bold"onclick align="right" class=button1>
+	<span id="searchbar2">	<span action="" class="formulaire">
+	<input class="champ" type="text" value="Rechercher..."/>
+	<input class="bouton" type="button" value="Go!" />
+	</span></div>
+<table>
+	   <tr>
+       <th>Section</th>
+       <th>Dernier Post</th>
+       <th>Date du dernier post</th>
+   </tr>
+   <tr>
+       <td><a>Section 1</a></td>
+       <td>Dernier post</td>
+       <td>Date</td>
+   </tr>
+   <tr>
+       <td><a>Section 2</a></td>
+       <td>Dernier post</td>
+       <td>Date</td>
+   </tr>
+   <tr>
+       <td><a>Section 3</a></td>
+       <td>Dernier post</td>
+       <td>Date</td>
+   </tr>
+   <tr>
+       <td><a>Section 4</a></td>
+       <td>Dernier post</td>
+       <td>Date</td>
+   </tr>
+   <tr>
+       <td><a>Section 5</a></td>
+       <td>Dernier post</td>
+       <td>Date</td>
+   </tr>
+</table>
+</div>
+       
+
+        </div>
+
+</div>
+</div>
