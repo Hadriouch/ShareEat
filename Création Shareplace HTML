@@ -1,0 +1,66 @@
+# ShareEat
+Projet
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <link rel="stylesheet" href="Shareplace.css" />
+       
+<div id="Bandeau">
+<img src="logo.jpg" class=Logo>
+<a href="page2.htm">Profil</a>
+ <a href="page2.htm">Catégories</a>
+ <a href="page2.htm">SharePlace</a>
+ <span id="searchbar">
+	<span action="" class="formulaire">
+	<input class="champ" type="text" value="Rechercher..."/>
+	<input class="bouton" type="button" value="Go!" />
+	</span>
+</span>
+<a href="page2.htm">Forum</a>
+<a href="page2.htm">Créer</a>
+<a href="page2.htm">Aide</a>
+</div>
+    </head>
+   
+    <body>
+        
+        
+        <div id="barre_de_gauche"> 
+            
+            <div class="mes"><a class="gauche">Mes Shareeaters</a></div>
+            <div class="sous-mes"><a class="gauche">Shareeaters1</a></div>
+            <div class="sous-mes"><a class="gauche">Shareeaters2</a></div>
+            <div class="sous-mes"><a class="gauche">Shareeaters3</a></div>
+            <div class="sous-mes"><a class="gauche">Shareeaters4</a></div>
+            <div class="sous-mes"><a class="gauche">Shareeaters5</a></div>
+            <div class="sous-mes"><a class="gauche">Shareeaters6</a></div>
+            
+            <div id="espace"></div>
+            
+            <div class="mes"><a>Mes Shareplaces</a></div>
+            <div class="sous-mes"><a class="gauche">Shareplace1</a></div>
+            <div class="sous-mes"><a class="gauche">Shareplace2</a></div>
+            <div class="sous-mes"><a class="gauche">Shareplace3</a></div>
+            <div class="sous-mes"><a class="gauche">Shareplace4</a></div>
+            <div class="sous-mes"><a class="gauche">Shareplace5</a></div>
+            <div class="sous-mes"><a class="gauche">Shareplace6</a></div>
+            <div class="sous-mes"><a class="gauche">Shareplace7</a></div>           
+           
+        </div>
+    
+    
+    <h2 class="début">Création d'une Shareplace</h2>
+    <img class="photo" src="bandeau.jpg" alt="photo" width="130" height="100">
+    <p class="i1">Importer une photo</p>
+    <p class="c1"> Nom de la Shareplace</p>
+    <p class="c2"> Lieu</p>
+    <p class="t1">Description de la Shareplace</p>
+    <img class="c4" src="blanc.png"alt="photo" width="300" height="100">
+    <p class="c5">Evènements liés</p>
+    <img class="c4" src="blanc.png"alt="photo" width="300" height="100">
+    <p class="c6"> Inviter des Shareaters</p>
+    <p class="c7">Paiement Paypal</p>
+
+    <h2 class="c8">Créer la Shareplace</h2>
+    </body>
