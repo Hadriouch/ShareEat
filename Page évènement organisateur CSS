@@ -1,0 +1,152 @@
+# ShareEat
+Projet
+
+div#bandeau {
+    position: fixed;
+    float: top;
+    top: 100px;
+    left:0;
+    background-color: red;
+    width: 100%;
+    height: 50px;
+    z-index: 1;
+}
+
+
+/*début barre de gauche*/
+
+div#barre_de_gauche {
+    position: fixed;
+    display: inline-block;
+    float: left;
+    top:0;
+    left:0; 
+    margin: 100px 0 0 0;
+    padding: 0;  
+    width: 150px;
+    height: 47vw;
+    border-right: 2px solid red; 
+    z-index: 2;
+    overflow: scroll;
+}
+
+
+a.gauche {
+    display: block;
+    width: 100%;
+    height:100%;
+    background-color: white;
+    
+}
+
+a:hover {
+    background-color: orange;
+}
+
+
+div.mes {
+    width: 100%;
+    height: 40px;
+    line-height: 40px;
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+div.sous-mes {
+    background-color: orange;
+    margin: -0px 0px -0px 40px;
+    width: 108px;
+    border-left: 2px solid red;
+    height: 32px;
+    line-height: 32px;
+    font-size: 13px;
+}
+
+div#espace {
+    width: 100%;
+    height: 10px;
+    margin: 10px 0;
+}
+
+
+html{
+	overflow:scroll;
+	white-space:nowrap;
+}
+a { /* Agit sur les liens*/
+ text-decoration:none; /* Les désouligne*/
+ font-size: 16px	; /*Définit leur taille*/
+ color:#d08a28;
+	padding-left:10px;
+	padding-right: 10px;
+} 
+
+div#Bandeau {
+	position:fixed;
+	background-color: #5e140b;
+	height:60px;
+	top:0;
+	left:0;
+}
+.Logo { /*sert a placer le logo*/
+vertical-align: middle;
+    margin-left:40px;
+	width: 60px;
+		}
+}	
+#searchbar{	
+	margin-left: 20px;
+	
+}
+.formulaire .champ {
+	width:400px	;
+	}
+.formulaire .bouton{
+ width: 60px;
+ font-size:16px;
+ }
+ 
+.photo
+{margin:100px 0 0 152px;}
+ 
+ 
+ 
+ .titre1
+ {text-align:center;
+ 	color:brown;
+ 	margin: 20px 0 0 165px;
+ }
+ .cadre1
+ {text-align:center;
+ 	margin: 20px 0 0 300px;
+ 	border: 1px black solid;
+	width:175px;
+ }
+ .c1
+ {margin: 20px 0 0 200px;
+ border: 1px black solid;
+	width:199px;
+	float:left;
+ }
+ .c2
+ {margin: 20px 0 0 400px;
+ 	border: 1px black solid;
+	width:100px;}
+.description
+{margin:20px 0 0 200px;}
+.c3
+{margin:0 0 0 200px;
+border: 1px black solid;
+
+}
+.publication
+{margin:0 0 0 200px;}
+.c4
+{margin:0 0 0 200px;
+border: 1px black solid;}
+.commentaires
+{margin:0 0 0 200px;}
+.c5
+{margin:0 0 0 200px;
+	border: 1px black solid;
+}
