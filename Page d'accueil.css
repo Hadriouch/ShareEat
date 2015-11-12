@@ -10,7 +10,7 @@
 	background-image: url(Fond_Bandeau.jpg);/*Définis une image de fond pour le bandeau*/
 	background-size: cover;/*Adapte l'image a la taille du bandeau*/
 	height:220px;
-	width:1200px;
+	width:1200px;/*quedal*/
 }
 .RS{/*Agit sur les réseaux sociaux*/
 	float: right;
