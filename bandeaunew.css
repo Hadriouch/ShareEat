@@ -1,0 +1,33 @@
+# ShareEat
+Projet
+html{
+	overflow:scroll;/*permet de faire apparaitre les glissiere si le contenu est hors écran*/
+	white-space:nowrap;/*Le contenu ne saute pas a la ligne si il devait sortir de l'écran*/
+}
+
+div#footer {
+	float:bot;/*Permet au bandeau de descendre avec la page*/
+	background-color: lightgrey;/* Couleur de fond du bandeau*/
+	height:70px;/*Hauteur du bandeau*/
+	text-align:center;
+	font-family:verdana;
+	font-size:12px;
+	padding:12 px;
+	color: #5e140b;
+	width:1250px;
+	margin-left:auto;
+	margin-right:auto;
+}
+div#footer{
+	width:1400px;
+	margin-left:auto;
+	margin-right:auto;
+}
+	
+div#footer a
+{
+	float:left;
+	padding-left:60px;
+	padding-right:60px;
+	color: #5e140b;
+}
