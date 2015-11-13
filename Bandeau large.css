@@ -1,0 +1,64 @@
+# ShareEat
+Projet
+html{
+	overflow:scroll;
+	white-space:nowrap;
+}
+a { /* Agit sur les liens*/
+ text-decoration:none; /* Les désouligne*/
+ font-size: 1.5em; /*Définit leur taille*/
+} 
+div#Bandeau {
+	float: top;
+	background-image:url(Fond_Bandeau.jpg);/*Définis une image de fond pour le bandeau*/
+	background-size: cover;/*Adapte l'image a la taille du bandeau*/
+	height:220px;
+	width:1250px;
+	margin-left: auto;
+	margin-right:auto;
+}
+.RS{/*Agit sur les réseaux sociaux*/
+	float: right;
+	width: 30px;
+	margin-top: 10px;
+	margin-right: 20px;
+	
+	
+}
+.Drapeau{/*Agit sur les drapeaux*/
+	float: left;
+	width: 30px;
+	margin-top: 10px;
+	margin-left: 20px;
+	
+	
+}
+.centrer { /*sert a centrer le logo*/
+    margin-left: 450px;
+	width: 100px;
+		}
+span#TitreG a{/*Change la couleur des liens gauche et leurs écart */
+	color:#d08a28;
+	padding-left:30px;
+}	
+span#TitreD a{/*Change la couleur des liens droit et leurs écart */
+	color:#5e140b;
+	padding-right: 30px;
+	float: right;
+}	
+#searchbar{
+	padding-top: 30px;
+	padding-bottom: 30px;
+	margin-left: 400px;
+	width:400px;
+}
+.formulaire .champ {
+	width:80%;
+	font-size:100%;
+ padding: 0;
+	}
+.formulaire .bouton{
+ width: 15%;
+ font-size:100%;
+ padding: 0;
+ }
