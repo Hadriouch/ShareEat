@@ -1,35 +1,58 @@
-# ShareEat
-html{
-	overflow:scroll;
-	white-space:nowrap;
+html
+{
+	overflow:scroll;/*permet de faire apparaitre les glissiere si le contenu est hors écran*/
+	white-space:nowrap;/*Le contenu ne saute pas a la ligne si il devait sortir de l'écran*/
 }
 a { /* Agit sur les liens*/
- text-decoration:none; /* Les dÃ©souligne*/
- font-size: 16px	; /*DÃ©finit leur taille*/
+ text-decoration:none; /* Les désouligne*/
+ font-size: 16px	; /*Définit leur taille*/
  color:#d08a28;
 	padding-left:10px;
 	padding-right: 10px;
 } 
 
-div#Bandeau {
-	position:absolute;
-	background-color: #5e140b;
-	height:80px;
-	top:0;
-    width:1400px;
-    margin-left:auto;
+div#Contenu 
+{
+	width:1250px;
+	margin-left:auto;
 	margin-right:auto;
 }
-.Logo { /*sert a placer le logo*/
-vertical-align: middle;
-    margin-left:40px;
-	width: 60px;
+
+div#Bandeau 
+{
+	position:fixed;/*Permet au bandeau de descendre avec la page*/
+	background-color: #5e140b;/* Couleur de fond du bandeau*/
+	height:60px;/*Hauteur du bandeau*/
+	width:100%;
+	text-align:center;
+    top: 0;
 }
+
+.Logo 
+{ /*sert a placer le logo*/
+    vertical-align: middle;/*Aligne le texte au centre du logo*/
+	width: 60px;/*Definit la largeur et donc la hauteur du logo(carré)*/
+		
+}	
 
 #searchbar
 {	
-	margin-left: 20px;	
+	margin-left: 20px;/*Definit l'ecartement a gauche entre la barre et les liens*/
+	
 }
+
+.formulaire .champ 
+{
+	width:400px	;/*Largeur du champ de barre */
+}
+
+
+.formulaire .bouton
+{
+ width: 60px;/*Dimension du bouton de barre*/
+ font-size:16px;:/*Taille de la police dans le bouton*/
+ }
+
 
 body
 {
@@ -66,7 +89,8 @@ form
     font-size:16px;
 }
 
-html{
+html
+{
 	overflow:scroll;/*permet de faire apparaitre les glissiere si le contenu est hors écran*/
 	white-space:nowrap;/*Le contenu ne saute pas a la ligne si il devait sortir de l'écran*/
 }
@@ -85,6 +109,7 @@ div#footer
 	margin-left:auto;
 	margin-right:auto;
 }
+
 div#footer
 {
 	width:1400px;
