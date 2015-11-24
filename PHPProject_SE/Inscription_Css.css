@@ -1,0 +1,41 @@
+body
+{
+    background-color: rgb(255,255,240); 
+    color: black;
+}
+h2
+{
+    font-size: 35px;
+    font-family: verdana; 
+    text-align: center;
+}
+table
+{
+    font-family: verdana;
+    margin: -200px auto 150px; 
+}
+
+table#tableau2
+{
+    margin-bottom: 0;
+}
+p
+{
+    font-family: verdana;
+    margin-left: 600px;
+    margin-top: 0px;    
+}
+
+
+h3
+{
+    font-size: 25px;
+    font-family: verdana; 
+    text-align: center;  
+}
+ul
+{
+    font-size: 15px;
+    font-family: verdana; 
+    text-align: justify;   
+}
